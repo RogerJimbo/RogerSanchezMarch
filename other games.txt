@@ -1,0 +1,47 @@
+ <div class="row portfolio-container">
+
+                <!-- Pinball -->
+                <div class="col-lg-4 col-md-6 portfolio-item filter-small">
+                    <dv class="portfolio-wrap">
+                        <img src="assets\img\team\pinball.jpg" alt="">
+                        <div class="portfolio-info">
+                            <a href="https://rogerjimbo.github.io/PinballGame/" target="_blank"><h4>Pinball</h4></a>
+                            <p>Bullet Lib Physics Game</p>
+                            <div class="portfolio-links">
+                            </div>
+                        </div>
+                    </dv>
+                </div>
+            </div>
+
+            <div class="row portfolio-container">
+
+                <!-- Goblins RPG -->
+                <div class="col-lg-4 col-md-6 portfolio-item filter-small">
+                    <dv class="portfolio-wrap">
+                        <img src="assets\img\team\rpg.jpg" alt="">
+                        <div class="portfolio-info">
+                            <a href="https://github.com/RogerJimbo/RPG-Fighter" target="_blank"><h4>Goblins RPG</h4></a>
+                            <p>C++Text RPG Fighter</p>
+                            <div class="portfolio-links">
+                            </div>
+                        </div>
+                    </dv>
+                </div>
+            </div>
+
+            <div class="row portfolio-container">
+
+                <!-- Cave Knight -->
+                <div class="col-lg-4 col-md-6 portfolio-item filter-small">
+                    <dv class="portfolio-wrap">
+                        <img src="assets\img\team\knight.jpg" alt="">
+                        <div class="portfolio-info">
+                            <a href="https://margeli.github.io/Assignment3/" target="_blank"><h4>Cave Knight</h4></a>
+                            <p>2D Platformer</p>
+                            <div class="portfolio-links">
+                            </div>
+                        </div>
+                    </dv>
+                </div>
+            </div>
